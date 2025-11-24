@@ -2,3 +2,5 @@
 
 Time Taken: 8 m 53 s <br>
 Time Complexity: 0 ms
+
+- A better solution is possible by using head instead of prev.
