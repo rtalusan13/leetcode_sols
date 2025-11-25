@@ -1,6 +1,6 @@
 # C Solution - 11/25/25 (Optimal ✅)
 
-Time Taken: > 3 m 08 s <br>
+Time Taken: 3 m 08 s <br>
 Runtime: 0 ms | Beats 100% <br>
 Memory: 12.20 MB | Beats 63.02%
 
