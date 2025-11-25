@@ -2,14 +2,7 @@
 
 Time Taken: > 1 hr <br>
 Runtime: 0 ms | Beats 100% <br>
-Memory: 10.58 MB | Beats 92.73%
+Memory: 12.59 MB | Beats 92.55%
 
-- A better solution is possible by using head instead of prev.
-
-# Python Solution - 11/24/25 (Optimal ✅)
-
-Time taken: 4 m 29 s <br>
-Runtime: 0 ms | Beats 100% <br>
-Memory: 14.12 MB | Beats 94.46%
-
-- In this Python solution, I chose to integrate the above note about removing the prev pointer and using head instead.
+- This was bad, considering the carry + malloc logic. I also spent some time trying to store a running sum as an int, but overflow still occurred even when working with an unsigned long long.
+- First medium completed!
