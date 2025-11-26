@@ -3,4 +3,5 @@ My attempts at leetcode solutions for specific problems. I am attempting to use 
 
 
 ## Problems Completed ✅:
-1, 2, 26, 206
+C - 1, 2, 21, 26, 206
+Python - 1
