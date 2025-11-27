@@ -14,6 +14,10 @@ Medium - 2, 7
 
 ## FAQ:
 
+What made you start this journey?
+
+- I am preparing for technical interviews, as well as boosting my proficiency in specific programming languages that I believe will be beneficial for my future.
+
 Why are most of your solutions in C?
 
 - Studying Electrical & Computer Engineering, I'm working with low-level systems and taking classes that focus on C or Assembly programming. I anticipate this will carry into my future, potentially into Hardware/Firmware roles.
