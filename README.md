@@ -8,8 +8,8 @@ C - 2, 7, 21, 26, 28, 206     <br>
 Python - 1, 206
 
 
-Easy -
-Medium - 7, 206
+Easy -  1, 21, 26, 28, 206     <br>
+Medium - 2, 7
 
 ## FAQ:
 
