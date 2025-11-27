@@ -4,9 +4,12 @@ My attempts at leetcode solutions for specific problems. I am attempting to use 
 **https://leetcode.com/u/raptalu/**
 
 ## Problems Completed ✅:
-C - 2, 21, 26, 28, 206     <br>
+C - 2, 7, 21, 26, 28, 206     <br>
 Python - 1, 206
 
+
+Easy -
+Medium - 7, 206
 
 ## FAQ:
 
