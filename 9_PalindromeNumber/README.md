@@ -1,7 +1,8 @@
 # C Solution - 11/27/25 
-[Thanksgiving 🦃] <br> <br>
+
 
 # (C) Follow-Up Solution - 11/27/25 (Sub-Optimal ⚠️, Memory)
+[Thanksgiving 🦃] <br> <br>
 Time Taken: 5 m 32 s <br>
 Runtime: 0 ms | Beats 100% <br>
 Memory: 8.11 MB | Beats 45.19%
