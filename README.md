@@ -5,11 +5,11 @@ My attempts at leetcode solutions for specific problems. I am attempting to use 
 
 ## Problems Completed ✅:
 **Languages:** <br>
-C - 2, 7, 9, 12, 21, 26, 28, 206, 3512     <br>
-Python - 1, 206
+C - 2, 7, 9, 12, 21, 26, 28, 206, 2514, 3512     <br>
+Python - 1, 206, 2514
 
 **Difficulty:** <br>
-Easy -  1, 9, 21, 26, 28, 206, 3512     <br>
+Easy -  1, 9, 21, 26, 28, 206, 2514, 3512     <br>
 Medium - 2, 7, 12
 
 ## FAQ:
