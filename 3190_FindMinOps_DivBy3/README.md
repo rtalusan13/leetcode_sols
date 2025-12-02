@@ -5,3 +5,9 @@ Runtime: 0 ms | Beats 100% <br>
 Memory: 12.50 MB | Beats 50.47%
 
 - Code can be implemented to iterate through each entry or lookup (i in nums)
+
+# C Solution - 12/2/25 (Optimal ✅)
+
+Time taken: 1 m 50 s <br>
+Runtime: 0 ms | Beats 100% <br>
+Memory: 8.54 MB | Beats 76.02%
