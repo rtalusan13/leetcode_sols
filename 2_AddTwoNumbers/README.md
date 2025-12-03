@@ -10,6 +10,12 @@ The number of nodes in each linked list is in the range [1, 100]. <br>
 0 <= Node.val <= 9 <br>
 It is guaranteed that the list represents a number that does not have leading zeros.
 
+.
+
+.
+
+.
+
 ## C Solution - 11/25/25 (Optimal ✅)
 
 Time Taken: > 1 hr <br>
