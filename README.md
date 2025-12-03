@@ -23,7 +23,7 @@ Why are most of your solutions in C?
 - Studying Electrical & Computer Engineering, I'm working with low-level systems and taking classes that focus on C or Assembly programming. I anticipate this will carry into my future, potentially into Hardware/Firmware roles.
 
 
-### Calendar:
+## Calendar:
 
 8/12/25 - 1 <br>
 11/25/25 - 1 <br>
