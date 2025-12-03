@@ -1,15 +1,5 @@
 # 12. Integer to Roman
 
-Seven different symbols represent Roman numerals with the following values:
-
-Symbol	Value <br>
-I	1 <br>
-V	5 <br>
-X	10 <br>
-L	50 <br>
-C	100 <br>
-D	500 <br>
-M	1000 <br>
 Roman numerals are formed by appending the conversions of decimal place values from highest to lowest. Converting a decimal place value into a Roman numeral has the following rules:
 
 - If the value does not start with 4 or 9, select the symbol of the maximal value that can be subtracted from the input, append that symbol to the result, subtract its value, and convert the remainder to a Roman numeral.
