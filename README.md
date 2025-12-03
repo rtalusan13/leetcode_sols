@@ -26,7 +26,7 @@ Why are most of your solutions in C?
 ## Calendar:
 
 (1) 8/12/25 - 1 <br> 
-**November 2025** <br>
+<br> **November 2025** <br>
 (1) 11/24/25 - 206 <br> 
 (2) 11/25/25 - 21, 26 <br> 
 (1) 11/26/25 - 28 <br> 
@@ -34,7 +34,7 @@ Why are most of your solutions in C?
 (1) 11/28/25 - 12 <br> 
 (2) 11/29/25 - 2154, 3152 <br>
 (1) 11/30/25 - 1018 <br> 
-**December 2025** <br>
+<br> **December 2025** <br>
 (1) 12/1/25 - 66 <br> 
 (2) 12/2/25 - 717, 3190 <br> 
 (1) 12/3/25 - 1323 <br> 
