@@ -26,13 +26,13 @@ Why are most of your solutions in C?
 ## Calendar:
 
 8/12/25 - 1 <br> 
-** November 2025 ** <br>
+**November 2025** <br>
 11/25/25 - 1 <br> 
 11/26/25 - 1 <br> 
 11/27/25 - 1 <br> 
 11/28/25 - 1 <br> 
 11/29/25 - 1 <br>
-** December 2025 ** <br>
+**December 2025** <br>
 11/30/25 - 1 <br> 
 12/1/25 - 1 <br> 
 12/2/25 - 1 <br> 
