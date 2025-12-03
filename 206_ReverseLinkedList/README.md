@@ -1,4 +1,24 @@
-# C Solution - 11/24/25 (Optimal ✅)
+# 206. Reverse Linked List
+
+Given the head of a singly linked list, reverse the list, and return *the reversed list*.
+
+### Constraints: 
+
+The number of nodes in the list is the range [0, 5000].
+
+-5000 <= Node.val <= 5000
+
+### Follow-up:
+
+A linked list can be reversed either iteratively or recursively. Could you implement both?
+
+.
+
+.
+
+.
+
+## C Solution - 11/24/25 (Optimal ✅)
 
 Time Taken: 8 m 53 s <br>
 Runtime: 0 ms | Beats 100% <br>
