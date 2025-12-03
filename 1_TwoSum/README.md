@@ -21,7 +21,6 @@ Can you come up with an algorithm that is less than O(n2) time complexity?
 
 .
 
-.
 ## Python Solution - 8/12/25 (Unoptimal ❌)
 
 *No Stopwatch* <br>
