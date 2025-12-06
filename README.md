@@ -1,15 +1,15 @@
 # leetcode_sols
-My attempts at solving LeetCode problems. I am attempting to use a variety of languages but may primarily use C/C++ or Python.
+My attempts at solving LeetCode problems. I am attempting to use a variety of languages, but may primarily use C/C++ or Python.
 
 **https://leetcode.com/u/raptalu/**
 
 ## Problems Completed ✅:
 **Languages:** <br>
-C - 2, 7, 9, 12, 21, 26, 28, 206, 717, 2154, 3190, 3512     <br>
+C - 2, 7, 9, 12,13,  21, 26, 28, 206, 717, 2154, 3190, 3512     <br>
 Python - 1, 66, 206, 717, 1018, 1323, 2154, 3190
 
 **Difficulty:** <br>
-Easy -  1, 9, 21, 26, 28, 66, 206, 717, 1018, 1323, 2154, 3190, 3512     <br>
+Easy -  1, 9, 13, 21, 26, 28, 66, 206, 717, 1018, 1323, 2154, 3190, 3512     <br>
 Medium - 2, 7, 12
 
 ## FAQ:
@@ -38,3 +38,5 @@ Why are most of your solutions in C?
 (1) 12/1/25 - 66 <br> 
 (2) 12/2/25 - 717, 3190 <br> 
 (1) 12/3/25 - 1323 <br> 
+(0) 12/4/25 <br>
+(1) 12/5/25 - 13 <br>
