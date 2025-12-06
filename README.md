@@ -1,5 +1,5 @@
 # leetcode_sols
-My attempts at solving LeetCode problems. I am attempting to use a variety of languages, but may primarily use C/C++ or Python.
+My attempts at solving LeetCode problems. I am attempting to use a variety of languages, but may primarily use C/C++ or Python. I may also create attempts in languages that I have previous experience with (Java, Dart, etc.)
 
 **https://leetcode.com/u/raptalu/**
 
