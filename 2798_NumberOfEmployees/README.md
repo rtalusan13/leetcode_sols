@@ -4,8 +4,6 @@ Time taken: 0 m 35 s <br>
 Runtime: 0 ms | Beats 100% <br>
 Memory: 8.74 MB | Beats 89.56%
 
-- Code can be implemented to iterate through each entry or lookup (i in nums)
-
 # C++ Solution - 12/2/25 (Optimal ✅)
 
 Time taken: 0 m 25 s <br>
