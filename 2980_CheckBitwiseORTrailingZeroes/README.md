@@ -15,9 +15,9 @@ Memory: 28.92 MB | Beats 48.01%
 
 # Java Solution - 12/7/25 (Optimal ✅)
 
-Time Taken: 5 m 53 s <br>
+Time Taken: 1 m 19 s <br>
 Runtime: 0 ms | Beats 100% <br>
-Memory: 41.9 MB | Beats 29.32%
+Memory: 45.49 MB | Beats 40.58%
 
 # Python Solution - 12/7/25 (Optimal ✅)
 
