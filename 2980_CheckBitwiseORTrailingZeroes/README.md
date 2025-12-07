@@ -1,5 +1,5 @@
 # Overview
-Since we are inclusive of both the upper and lower bounds, we need to utilize the floor function to remove the trailing decimal (0.5) from any integer we are dividing by 2. To get an inclusive range, we increment high by 1, while low can remain as is. We immediately return the difference of (high+1)/2 and low/2.
+A bitwise OR having trailing 0s is only possible if the least-significant bit (LSB) is 0 for both inputs. We iterate through and check for any even integers in the array, with a placeholder integer ORbin that is 0 for no even numbers seen, 1 for 1 even number seen, and 2 if a pair is found. The if-statement in the for loop can check if the current iteration has found a second integer to create a pair, in which case it returns true. If the for loop exits (whole array iterated), we return false.
 
 # C Solution - 12/7/25 (Optimal ✅)
 
