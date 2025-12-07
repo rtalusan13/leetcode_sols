@@ -21,9 +21,9 @@ Memory: 45.49 MB | Beats 40.58%
 
 # Python Solution - 12/7/25 (Optimal ✅)
 
-Time taken: 0 m 15 s <br>
-Runtime: 14 ms | Beats 67.02% <br>
-Memory: 12.31 MB | Beats 78.72%
+Time taken: 0 m 57 s <br>
+Runtime: 0 ms | Beats 100% <br>
+Memory: 12.48 MB | Beats 45.24%
 
 # C# Solution - 12/7/25 (Optimal ✅)
 
