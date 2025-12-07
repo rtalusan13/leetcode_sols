@@ -38,3 +38,5 @@ Runtime: 0 ms | Beats 100% <br>
 Memory: 151.69 MB | Beats -%
 
 - First Dart solution provided for this problem!
+
+![Solution](img/2980_FirstDartSolution.png)
