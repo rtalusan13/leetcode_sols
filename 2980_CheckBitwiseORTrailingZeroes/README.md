@@ -30,3 +30,11 @@ Memory: 12.48 MB | Beats 45.24%
 Time Taken: 2 m 10 s <br>
 Runtime: 0 ms | Beats 100% <br>
 Memory: 46.60 MB | Beats 89.47%
+
+# Dart Solution - 12/7/25 (Optimal ✅)
+
+Time Taken: 3 m 40 s <br>
+Runtime: 0 ms | Beats 100% <br>
+Memory: 151.69 MB | Beats -%
+
+- First Dart solution provided for this problem!
