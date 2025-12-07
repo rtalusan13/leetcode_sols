@@ -1,5 +1,5 @@
 # Overview
-A bitwise OR having trailing 0s is only possible if the least-significant bit (LSB) is 0 for both inputs. We iterate through and check for any even integers in the array, with a placeholder integer ORbin that is 0 for no even numbers seen, 1 for 1 even number seen, and 2 if a pair is found. The if-statement in the for loop can check if the current iteration has found a second integer to create a pair, in which case it returns true. If the for loop exits (whole array iterated), we return false.
+A bitwise OR contains trailing 0s is only possible if the least-significant bit (LSB) is 0 for both inputs. We iterate through and check for any even integers in the array, with a placeholder integer ORbin that is 0 for no even numbers seen, 1 for 1 even number seen, and 2 if a pair is found. The if-statement in the for loop can check if the current iteration has found a second integer to create a pair, in which case it returns true. If the for loop exits (whole array iterated), we return false.
 
 # C Solution - 12/7/25 (Optimal ✅)
 
@@ -27,6 +27,6 @@ Memory: 12.48 MB | Beats 45.24%
 
 # C# Solution - 12/7/25 (Optimal ✅)
 
-Time Taken: 0 m 10 s <br>
-Runtime: 24 ms | Beats 71.96% <br>
-Memory: 29.15 MB | Beats 31.78%
+Time Taken: 2 m 10 s <br>
+Runtime: 0 ms | Beats 100% <br>
+Memory: 46.60 MB | Beats 89.47%
