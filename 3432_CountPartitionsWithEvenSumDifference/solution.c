@@ -1,5 +1,4 @@
 int countPartitions(int* nums, int numsSize) {
-    int* ptr = nums;
     int rightsum = 0;
     int leftsum = 0;
     int partitions = 0;
