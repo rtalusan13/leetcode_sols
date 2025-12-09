@@ -29,7 +29,7 @@ Why are most of your solutions in C?
 
 What other languages would you use?
 
-- I am primarily using languages that have similar syntax and memory use/allocation features, compared to what I have worked with in the past. C structures translate to C++, C#, while Java translates to Dart as well. I am at a beginner proficiency for most of these languages, so as long as I build the programming mentality and get accustomed to their respective syntaxes and advantages, I will be able to gauge what is best in certain scenarios.
+- I am primarily using languages that have similar syntax and memory use/allocation features, compared to what I have worked with in the past. C structures translate to C++, C#, while Java translates to Dart as well. I am at a beginner proficiency for most of these languages, so as long as I build the programming mentality and get accustomed to their respective syntaxes and advantages, I will be able to better gauge what is best in certain scenarios.
 
 ## Calendar:
 
