@@ -4,7 +4,7 @@ Time Taken: 11 m 58 s <br>
 Runtime: 0 ms | Beats 100% <br>
 Memory: 7.78 MB | Beats 52.03%
 
-## Python Solution - 12/11/25 (Optimal ✅)
+# Python Solution - 12/11/25 (Optimal ✅)
 
 Time Taken: 2 m 38 s <br>
 Runtime: 0 ms | Beats 100% <br>
