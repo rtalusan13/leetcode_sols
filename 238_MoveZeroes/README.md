@@ -1,4 +1,4 @@
-# C Solution - 12/23/25 (Unoptimal ❌)
+# C Solution - 12/22/25 (Unoptimal ❌)
 
 *No Stopwatch* <br>
 Runtime - 88 ms | Beats 8.75% <br>
