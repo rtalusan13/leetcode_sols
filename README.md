@@ -34,7 +34,7 @@ What other languages would you use?
 ## Calendar:
 
 (1) 8/12/25 - 1 <br> 
-<br> **November 2025** <br>
+<br> **November 2025 (10)** <br>
 (1) 11/24/25 - 206 <br> 
 (2) 11/25/25 - 21, 26 <br> 
 (1) 11/26/25 - 28 <br> 
