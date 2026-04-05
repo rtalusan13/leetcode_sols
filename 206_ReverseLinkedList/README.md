@@ -13,3 +13,9 @@ Runtime: 0 ms | Beats 100% <br>
 Memory: 14.12 MB | Beats 94.46%
 
 - In this Python solution, I chose to integrate the above note about removing the prev pointer and using head instead.
+
+# C++ Solution - 4/5/25 (Optimal ✅)
+
+Time taken: 10 m 31 s <br>
+Runtime: 0 ms | Beats 100% <br>
+Memory: 13.29 MB | Beats 92.56%
