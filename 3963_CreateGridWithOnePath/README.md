@@ -1,4 +1,4 @@
-# C++ Solution - 11/3/26 (Optimal ✅)
+# C++ Solution - 11/3/26
 
 Time Taken: 7 m 23 s <br>
 Runtime: 4 ms | Beats 17.40% <br>
